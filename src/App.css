@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@600;700&display=swap");
+
+:root {
+  font-family: "Quicksand", sans-serif;
+}
+
+.page {
+  display: flex;
+  flex-flow: column nowrap;
+  row-gap: 20px;
+  padding: 5%;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.tables {
+  height: 400px;
+  width: 100%;
+}
